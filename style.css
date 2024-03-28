@@ -1,6 +1,6 @@
 body {background-color: rgb(211, 255, 211);}
 
-.kea {
+.leftImage {
     height: 500px;
     width: 450px;
     margin: 10px;
@@ -12,4 +12,17 @@ body {background-color: rgb(211, 255, 211);}
     h1 {text-align: center;}
     h3 {text-align: center;}
 
-span {font-weight: bold;}
+span{text-align: right;
+    float: right;}
+
+.rightimage {
+    float: right;
+    height: 500px;
+    width: 450px;
+    margin: 10px;
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+  }
+.righttext { text-align: right; float: right;}

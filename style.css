@@ -26,3 +26,5 @@ span{text-align: right;
     border-radius: 10px;
   }
 .righttext { text-align: right; float: right;}
+
+.lefttext { text-align: left; float: left;}

@@ -1,4 +1,7 @@
-body {background-color: rgb(211, 255, 211);}
+body {
+    background-color: rgb(211, 255, 211);
+}
+
 
 .leftImage {
     height: 750px;
@@ -9,6 +12,7 @@ body {background-color: rgb(211, 255, 211);}
     border-style: solid;
     border-radius: 10px;
     }
+
     h1 {text-align: center;}
     h3 {text-align: center;}
 
@@ -28,3 +32,5 @@ span{text-align: right;
 .righttext { text-align: right; float:right;}
 
 .lefttext { text-align: left; float:left;}
+
+p{font-family:'Times New Roman';}

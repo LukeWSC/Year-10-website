@@ -29,8 +29,15 @@ span{text-align: right;
     border-style: solid;
     border-radius: 10px;
   }
-.righttext { text-align: right; float:right;}
+.righttext { text-align: right; 
+    float:right;
+    font-size: smaller;}
 
-.lefttext { text-align: left; float:left;}
+.lefttext { text-align: left; 
+    float:left; 
+    font-size: smaller;}
 
-p{font-family:'Times New Roman';}
+h1{font-family: sans-serif;}
+h3{font-family: sans-serif;}
+p {color:rgb(136, 136, 136);
+font-size: smaller;}

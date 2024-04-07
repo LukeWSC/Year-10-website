@@ -2,8 +2,8 @@ body {
     background-color: rgb(211, 255, 211);}
 
 .leftImage {
-    height: 750px;
-    width: 600px;
+    height: 600px;
+    width: 500px;
     margin: 10px;
     border-color: rgb(0, 0, 0);
     border-width: 4px;
@@ -19,8 +19,8 @@ span{text-align: right;
 
 .rightimage {
     float: right;
-    height: 750px;
-    width: 600px;
+    height: 600px;
+    width: 500px;
     margin: 10px;
     border-color: rgb(0, 0, 0);
     border-width: 4px;

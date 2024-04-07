@@ -1,7 +1,5 @@
 body {
-    background-color: rgb(211, 255, 211);
-}
-
+    background-color: rgb(211, 255, 211);}
 
 .leftImage {
     height: 750px;
@@ -10,7 +8,7 @@ body {
     border-color: rgb(0, 0, 0);
     border-width: 4px;
     border-style: solid;
-    border-radius: 10px;
+    border-radius: 30px;
     }
 
     h1 {text-align: center;}
@@ -27,13 +25,13 @@ span{text-align: right;
     border-color: rgb(0, 0, 0);
     border-width: 4px;
     border-style: solid;
-    border-radius: 10px;
+    border-radius: 30px;
   }
 .righttext { text-align: right; 
     float:right;
     font-size: smaller;}
 
-.lefttext { text-align: left; 
+.lefttext { text-align: left;
     float:left; 
     font-size: smaller;}
 
